@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const Features = () => {
-  return (
-    <div>Features</div>
-  )
-}
+  return <div className="gpt3__features section__padding"></div>;
+};
 
-export default Features
+export default Features;
